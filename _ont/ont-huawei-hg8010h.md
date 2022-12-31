@@ -19,8 +19,8 @@ parent: Huawei
 | HSGMII      | No                                                                                             |
 | Optics      | SC/APC and SC/UPC                                                                              |
 | IP address  | 192.168.100.1                                                                                  |
-| Web Gui     | ✅ user `root`, password `admin` or `adminHW` and user `telecomadmin`, password `admintelecom` |
-| Telnet      | After Enabling user `root`, password `admin` or `adminHW`                                      |
+| Web Gui     | ✅ user `root`, password `admin` or `adminHW`, user `telecomadmin`, password `admintelecom`, user `Epadmin` Pwd: `adminEp` |
+| Telnet      | After Enabling user `root`, password `admin` or `adminHW`,   user `Eproot` Pwd: `adminEp`      |
 | SSH         |                                                                                                |
 | Form Factor | ONT                                                                                            |
 
